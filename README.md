@@ -1,9 +1,9 @@
 # Diagrama-clases
 ```mermaid
-classDiagram
-    class Animal {
-        +int edad
-        +string nombre
-        +caminar()
-    }
+ classDiagram
+   class Animal
+   Animal: +int edad
+   Animal: +string nombre
+   Animal: +caminar() 
+    
 ```
