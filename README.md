@@ -1,4 +1,4 @@
-# Diagrama-clases
+# Diagrama-clases c++ y java
 ```mermaid
  classDiagram
    class Animal
