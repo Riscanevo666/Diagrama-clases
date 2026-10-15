@@ -6,9 +6,7 @@
    Animal: +String nombre
    Animal: +Caminar() 
    Animal: +comida(cantidad) 
-
-
-## Diagrama de clases tipo java
+# Diagrama de clases tipo java
 
      class pato{
             +color
