@@ -5,5 +5,6 @@
    Animal: +int edad
    Animal: +String nombre
    Animal: +Caminar() 
-    
+   Animal: +comida(cantidad) 
+ 
 ```
