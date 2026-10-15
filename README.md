@@ -10,7 +10,7 @@
 
 ## Diagrama de clases tipo java
 
-     class pato {
+     class pato{
             +color
             +nadar()
         
