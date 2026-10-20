@@ -12,5 +12,6 @@
             +nadar()
         
      }
+     Animal<|-- pato 
 
 ```
